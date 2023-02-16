@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Afraem Ibne Aziz (shinjon)</h1>
-<h3 align="center">I am Professional Full-Stack-Web Developber with MERN</h3>
+<h3 align="center">I am Professional Full-Stack-Web Developer with MERN</h3>
 <h3 align="center"> I am Learning Complete web Development</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shinjons99&label=Profile%20views&color=0e75b6&style=flat" alt="shinjons99" /> </p>
 
