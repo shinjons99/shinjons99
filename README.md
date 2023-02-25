@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shinjons99" alt="shinjons99" /></a> </p>
 
-- 🔭 I’m currently working on [IT-Manager](Lakehead Grammar School)
+- 🔭 I’m currently working as an [IT-Manager](Lakehead Grammar School)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
