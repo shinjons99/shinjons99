@@ -1,3 +1,4 @@
+![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)
 <h1 align="center">Hi 👋, I'm Md Afraem Ibne Aziz (shinjon)</h1>
 <h3 align="center">I am Professional Full-Stack-Web Developer with MERN</h3>
 <h3 align="center"> I am Learning Complete web Development</h3>
@@ -26,4 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shinjons99&show_icons=true&locale=en" alt="shinjons99" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shinjons99&" alt="shinjons99" /></p>
-![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)
+
